@@ -1,4 +1,6 @@
-# Bouncing Ball Simulation 🎱
+<div align="center">
+    <h1>Bouncing Ball Simulation 🎱</h1>
+</div>
 
 ## 📚 Table of Contents
 - [Introduction](#-introduction)

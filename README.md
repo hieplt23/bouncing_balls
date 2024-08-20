@@ -76,7 +76,7 @@ The simulation is implemented in Python using the Pygame library for visualizati
 * `draw_arc`: Function to draw the rotating arc.
 * `is_ball_in_arc`: Function to check if a ball is within the arc.
 * `handle_collision`: Function to update ball velocity after a collision.
-## 👁️ Visualization
+## 👁 Visualization
 <p align="center">
   <img src="images/demo.gif" width="900">
 </p>

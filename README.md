@@ -82,6 +82,7 @@ The simulation is implemented in Python using the Pygame library for visualizati
 ## 👁 Visualization
 <p align="center">
   <img src="images/demo.gif" width="900">
+  <em>Demo</em>
 </p>
 
 ## 🚀 Future Improvements

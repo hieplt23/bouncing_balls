@@ -2,6 +2,7 @@
 
 ## 📚 Table of Contents
 - [Introduction](#-introduction)
+- [Acknowledgments](#-acknowledgments)
 - [Physics Concepts](#-physics-concepts)
   - [Gravity](#gravity)
   - [Circular Motion](#circular-motion)

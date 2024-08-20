@@ -1,19 +1,19 @@
 # Bouncing Ball Simulation 🎱
 
 ## 📚 Table of Contents
-- [Introduction](#introduction)
-- [Physics Concepts](#physics-concepts)
+- [Introduction](#-introduction)
+- [Physics Concepts](#-physics-concepts)
   - [Gravity](#gravity)
   - [Circular Motion](#circular-motion)
   - [Collision Detection](#collision-detection)
   - [Reflection](#reflection)
-- [Mathematical Formulas](#mathematical-formulas)
+- [Mathematical Formulas](#-mathematical-formulas)
   - [Ball Position](#ball-position)
   - [Velocity Update](#velocity-update)
   - [Collision with Arc](#collision-with-arc)
-- [Implementation Details](#implementation-details)
-- [Visualization](#visualization)
-- [Future Improvements](#future-improvements)
+- [Implementation Details](#-implementation-details)
+- [Visualization](#-visualization)
+- [Future Improvements](#-future-improvements)
 
 ## 🎮 Introduction
 
